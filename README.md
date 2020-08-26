@@ -1,2 +1,0 @@
-# wiseteco-backend
-

@@ -1,0 +1,1096 @@
+@media all and (max-width:1230px) {
+    /* general */
+    .wrapper {
+        width:auto;
+        margin-left:30px;
+        margin-right:30px;
+    }
+    /* general */
+
+    /* footer */
+    .footer-top > .col-logo, .footer-top > .col-btn {
+        min-width: 200px;
+        max-width: 200px;
+    }
+        .footer-top > .col-btn .btn-whte {
+            width:100%;
+        }
+    /* footer */
+
+    /* header */
+    header .wrapper {
+        margin-left:0;
+    }
+    header .col-logo {
+        min-width: 161px;
+        max-width: 161px;
+    }
+    header .logo, header .logo img {
+        height: 92px;
+    }
+    header ul li {
+        font-size: 11px;
+        padding-right: 10px;
+    }
+    /* header */
+
+    /* platform */
+    .platform-item .wrapper {
+        margin-left:0;
+        margin-right:0;
+    }
+    .platform-item .screen {
+        width: 430px;
+        height: 248px;
+        padding-left: 57px;
+        padding-right: 57px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        right: -25px;
+    }
+    .platform-item.item-1 .angle, .platform-item.item-3 .angle {
+        margin-left:200px;
+    }
+    .platform-item.item-2 .angle {
+        margin-left:-880px;
+    }
+    .platform-item .wrapper > .flex-row {
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+        .platform-item .wrapper > .flex-row > div {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    /* platform */
+
+    /* techno */
+    .techno .flex-row > .col-left {
+        padding-right: 30px;
+    }
+
+    .techno .flex-row > .col-right {
+        padding-left: 30px;
+    }
+
+    .techno .angle {
+        margin-left: -1140px;
+    }
+
+    .techno .angle1 {
+        margin-left: 300px;
+    }
+    /* techno */
+}
+@media all and (max-width:1023px) {
+    header {
+        display:none;
+    }
+    /* intro */
+    .intro h1 {
+        font-size: 36px;
+        padding-bottom: 20px;
+    }
+    .intro::before {
+        display:none;
+    }
+    .intro .wrapper .flex-row > div {
+        padding-bottom:100px;
+    }
+    /* intro */
+    /* promo */
+    .wpp {
+        display: none;
+    }
+    .intro .btns {
+        display:block;
+    }
+    .concept .cpanel {
+        opacity:1;
+    }
+    .promo-panel .panel {
+        height: auto;
+        width: 100%;
+        background: #fff;
+        padding: 0 30px;
+        top: auto;
+        left: 0;
+        bottom: 0;
+        margin-left: 0;
+    }
+        .promo-panel .panel .flex-row .col-txt {
+            font-size:16px;
+        }
+    /* promo */
+
+    /* conception */
+    .conception {
+        padding-top:60px;
+    }
+        .conception h2 {
+            font-size:30px;
+            padding-bottom:15px;
+        }
+        .conception .angle {
+            display:none;
+        }
+    .concept .cpanel .icon {
+        margin-top: 15px;
+        height: 105px;
+        margin-bottom: 35px;
+    }
+    .concept .cpanel h3 {
+        font-size:24px;
+        margin-bottom:15px;
+    }
+    .concept .cpanel p {
+        font-size:14px;
+    }
+    .concept .cpanel .icon-placeholder {
+        min-height: 155px;
+    }
+        .concept .cpanel .icon-placeholder h4 {
+            font-size:20px;
+            padding-top:0;
+            padding-bottom:5px;
+        }
+    .concept .cpanel.cbg {
+        min-height:390px;
+    }
+    .conception .animation {
+        margin-bottom:15px;
+    }
+    /* conception */
+
+    /* spheres */
+    .spheres {
+        padding-top:0;
+    }
+        .spheres h2 {
+            font-size: 30px;
+        }
+        .spheres .wrapper > .flex-row > div {
+            min-width: 33.33%;
+            max-width: 33.33%;
+        }
+    .sphere-item .icon {
+        height: 65px;
+        margin-bottom: 30px;
+    }
+    .sphere-item {
+        height: 200px;
+        padding: 30px;
+    }
+    .spheres .wrapper > .flex-row {
+        padding-bottom:45px;
+    }
+    .spheres .content-sphere .flex-row > div.col-img {
+        min-width: 100%;
+        max-width: 100%;
+        padding:0 15px 30px 15px;
+    }
+    .spheres .content-sphere .flex-row > div.col-txt {
+        padding: 0 15px;
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .spheres .content-sphere img {
+        max-width:350px;
+    }
+    .spheres .content-sphere ul li {
+        padding-left:30px;
+    }
+        .spheres .content-sphere ul li::before {
+            left:0;
+        }
+    .spheres .content-sphere p {
+        padding-left:0;
+    }
+    .spheres .content-sphere .colored-angle {
+        display:none;
+    }
+    .spheres .content-sphere h3 {
+        font-size:30px;
+    }
+    .spheres .content-sphere .btns {
+        padding-top:30px;
+    }
+    .spheres .content-sphere .flex-row {
+        padding-bottom:0;
+    }
+    .content-sphere {
+        padding-bottom:60px;
+    }
+        .content-sphere .btn-close {
+            top:0;
+            right:0;
+            background-size:17px auto;
+        }
+    /* spheres */
+
+    /* solutions */
+    .solutions h2 {
+        font-size:30px;
+        padding-bottom:55px;
+    }
+    .solutions .flex-row > div {
+        min-width: 100%;
+        max-width: 100%;
+        padding-bottom: 65px;
+    }
+    .ie10 .solutions .flex-row > div {
+        display:block;
+    }
+    .solutions {
+        padding-bottom:0;
+        padding-top:60px;
+    }
+    /* solutions */
+
+    /* it */
+    .it {
+        padding-top:60px;
+        padding-bottom:30px;
+    }
+        .it h2 {
+            font-size:30px;
+            padding-bottom:15px;
+        }
+    .it-1 {
+        padding-top:50px;
+        padding-bottom:20px;
+    }
+        .it-1::before {
+            display:none;
+        }
+        .it-1 .wrapper > .flex-row > div {
+            min-width: 100%;
+            max-width: 100%;
+            padding-bottom:30px;
+        }
+    .it h3 {
+        padding-bottom:15px;
+    }
+    .it-2 {
+        padding-top:50px;
+    }
+        .it-2 .wrapper > .flex-row > div {
+            min-width: 50%;
+            max-width: 50%;
+            padding-bottom:30px;
+        }
+    .it-2 .flex-row {
+        align-items:center;
+    }
+    /* it */
+
+    /* platform */
+    .platform {
+        padding-top:60px;
+        margin-bottom:0;
+    }
+        .platform h2 {
+            font-size:30px;
+            padding-bottom:15px;
+        }
+    .platform-item {
+        padding-top:30px;
+        padding-bottom:50px;
+    }
+        .platform-item h3 {
+            font-size: 24px;
+            margin-bottom: 5px;
+            padding-top: 0;
+        }
+        .platform-item p {
+            font-size:14px;
+        }
+        .platform-item h4 {
+            font-size: 16px;
+            margin-top: 15px;
+            padding-bottom: 10px;
+        }
+        .platform-item ul li {
+            padding-left:20px;
+            margin-bottom:10px;
+        }
+
+        .platform-item ul li::before {
+            left: 0;
+        }
+        .platform-item ul.two-cols-txt {
+            -ms-column-count: 1;
+            -ms-column-gap: 0;
+            -webkit-column-count: 1;
+            -webkit-column-gap: 0;
+            column-count: 1;
+            column-gap: 0;
+        }
+        .platform-item .col-txt .flex-row > div {
+            min-width: 100%;
+            max-width: 100%;
+        }
+    /* platform */
+
+    /* techno */
+    .techno {
+        padding-top:60px;
+    }
+        .techno h2 {
+            font-size:30px;
+            padding-bottom:30px;
+        }
+        .techno .flex-row > .col-left, .techno .flex-row > .col-right {
+            min-width: 100%;
+            max-width: 100%;
+        }
+        .techno .flex-row > .col-middle {
+            min-width: 100%;
+            max-width: 100%;
+            order: 1;
+            padding-bottom:30px;
+        }
+        .techno .flex-row > .col-left .flex-row, .techno .flex-row > .col-right .flex-row {
+            flex-direction: row;
+            height: auto;
+        }
+        .techno .flex-row > .col-left {
+            padding-right: 0;
+            text-align: left;
+            order: 2;
+        }
+        .techno .flex-row > .col-right {
+            padding-left: 0;
+            order: 3;
+        }
+            .techno .flex-row > .col-left .flex-row > div, .techno .flex-row > .col-right .flex-row > div {
+                min-height: unset;
+                max-height: unset;
+                min-width:50%;
+                max-width:50%;
+            }
+            .ie10 .techno .flex-row > .col-left .flex-row > div, 
+            .ie10 .techno .flex-row > .col-right .flex-row > div {
+                display:block;
+            }
+        .techno .col-left h3::after {
+            right: auto;
+            left:0;
+        }
+        .techno .flex-row {
+            align-items: flex-start;
+        }
+    .techno-palo .flex-row .s1 {
+        padding-right:15px;
+        padding-bottom:30px;
+    }
+    .techno-palo .flex-row .s2 {
+        padding-right: 15px;
+    }
+    .techno-palo .flex-row .s3 {
+        padding-left: 15px;
+        padding-bottom: 30px;
+    }
+    .techno-palo .flex-row .s4 {
+        padding-left: 15px;
+    }
+    .techno-palo {
+        padding-bottom: 60px;
+    }
+    .techno .angle1, .techno .angle {
+        display:none;
+    }
+    .techno h2.h2-instru {
+        padding-bottom: 15px;
+    }
+    .techno-base > div {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .techno-base-item {
+        min-height:135px;
+    }
+    .techno-base {
+        padding-bottom:45px;
+    }
+    .platform-item.reverse .screen {
+        left: -90px;
+    }
+    /* techno */
+    /* partners */
+    .partners {
+        padding-bottom:60px;
+    }
+    .request-section {
+        padding-top:60px;
+        padding-bottom:60px;
+    }
+        .request-section h2 {
+            padding-bottom:20px;
+        }
+    /* footer */
+    footer {
+        padding-top:40px;
+    }
+    .footer-top > .col-logo,
+    .footer-top > .col-btn,
+    .footer-top > .col-slo, .footer-top > .col-addr {
+        min-width: 100%;
+        max-width: 100%;
+        text-align:center;
+    }
+    .footer-top img {
+        width: 134px;
+    }
+    .footer-top > div {
+        padding-bottom: 15px;
+    }
+    .footer-top > .col-logo {
+        padding-bottom:0;
+    }
+    .footer-top > .col-btn .btn-whte {
+        width:250px;
+    }
+    .footer-top {
+        padding-bottom:35px;
+    }
+    .footer-bottom > div {
+        min-width: 100%;
+        max-width: 100%;
+        text-align:center;
+    }
+    .footer-top > .col-addr p {
+        padding: 5px 0;
+    }
+    .footer-bottom .right {
+        text-align: center;
+        padding-top:5px;
+    }
+    .footer-bottom {
+        padding-top:30px;
+        padding-bottom:30px;
+    }
+    .mobile-menu {
+        position: fixed;
+        height: 100%;
+        top: 0;
+        right: 0;
+        width: 250px;
+        -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+        box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+        background: #f7f7f7;
+        display: block;
+        padding-top: 65px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        z-index: 97;
+        -webkit-transition: -webkit-transform ease 0.3s;
+        transition: transform ease 0.3s;
+        -webkit-transform: translateX(250px) translateZ(0);
+        transform: translateX(250px) translateZ(0);
+    }
+    .mobile-menu.opened {
+        -webkit-transform: translateX(0) translateZ(0);
+        transform: translateX(0) translateZ(0);
+    }
+        .mobile-menu .col-phone {
+            font-size:16px;
+            font-weight:700;
+            padding:10px 0;
+        }
+        .mobile-menu .btn {
+            display:block;
+            margin-top:10px;
+        }
+        .mobile-menu ul {
+            list-style:none;
+            padding:15px 0;
+        }
+        .mobile-menu ul li {
+            font-size:14px;
+            line-height:1.4;
+        }
+            .mobile-menu ul li a {
+                display:block;
+                padding:5px 0;
+            }
+            .mobile-header {
+                display: block;
+                position: fixed;
+                z-index: 98;
+                top: 0;
+                left: 0;
+                height: 50px;
+                background: #f7f7f7;
+                width: 100%;
+                -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+                box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+            }
+        .mobile-header .logo {
+            padding:10px;
+            width:100px;
+            display:block;
+            position:absolute;
+            z-index:1;
+            top:0;
+            left:0;
+        }
+        .mobile-header .logo img {
+            display:block;
+            height:30px;
+        }
+    .btn-menu {
+        background:url(../img/menu.svg) no-repeat 50% 50%;
+        background-size: 18px auto;
+        display:block;
+        position:absolute;
+        z-index:1;
+        top:0;
+        right:0;
+        height:50px;
+        width:50px;
+    }
+    .platform-item.angle-showed .screen img,
+    .platform-item .screen img {
+        opacity:1;
+    }
+}
+@media all and (max-width:767px) {
+    .conception .concept > div {
+        min-width: 100%;
+        max-width: 100%;
+        text-align:center;
+    }
+    .ie10 .concept .cbg.cpanel, .ie10 .concept .cpanel .icon-placeholder {
+        min-height: 1px;
+    }
+    .ie10 .sphere-item .txt {
+        display:block;
+    }
+    .concept .cpanel .icon-placeholder {
+        min-height: 1px;
+        padding-bottom: 15px;
+    }
+    .concept .cpanel.cbg {
+        min-height: 1px;
+    }
+    .concept .cpanel .icon {
+        margin-top: 0;
+        height: 105px;
+        margin-bottom: 15px;
+    }
+    .concept .cpanel h3 {
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .platform-item .wrapper > .flex-row > div {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .platform-item.item-1.angle-showed .angle, .platform-item.item-2.angle-showed .angle, .platform-item.item-3.angle-showed .angle {
+        display:none;
+    }
+    .platform-item.item-1 .wrapper > .flex-row > div.col-txt,
+    .platform-item.item-3 .wrapper > .flex-row > div.col-txt {
+        order: 2;
+    }
+    .platform-item.item-1 .wrapper > .flex-row > div.col-img,
+    .platform-item.item-3 .wrapper > .flex-row > div.col-img {
+        order: 1;
+    }
+    .platform-item .screen, .platform-item.reverse .screen {
+        left: 50%;
+        margin-left: -215px;
+        right: auto;
+        margin-bottom: 15px;
+    }
+    .platform-item {
+        padding-bottom:0;
+    }
+    .platform {
+        padding-bottom:60px;
+    }
+    .techno .flex-row > .col-left .flex-row > div, .techno .flex-row > .col-right .flex-row > div {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .ie10 .techno .flex-row > .col-left .flex-row > div, 
+    .ie10 .techno .flex-row > .col-right .flex-row > div {
+        display:block;
+    }
+        .techno-palo .flex-row .s1, .techno-palo .flex-row .s2 {
+            padding-right: 0;
+            padding-bottom: 30px;
+        }
+    .techno-palo .flex-row .s4, .techno-palo .flex-row .s3 {
+        padding-left: 0;
+        padding-bottom:30px;
+    }
+    .techno-palo {
+        padding-bottom:30px;
+    }
+    .it-2 .wrapper > .flex-row > div, .it-1 .wrapper > .flex-row > div .flex-row > div {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .it-1 .wrapper > .flex-row > div .flex-row > div {
+        padding-bottom:20px;
+    }
+    .techno-base-item > .col-img {
+        min-width: 175px;
+        max-width: 175px;
+        padding-right: 15px;
+    }
+    .spheres .wrapper > .flex-row > div {
+        min-width: 50%;
+        max-width: 50%;
+    }
+    .solutions .cpanel .txt ul li {
+        padding-left:20px;
+    }
+        .solutions .cpanel .txt ul li::before {
+            left:0;
+        }
+    .popup-form .popup-close {
+        right: 15px;
+        top: 15px;
+    }
+}
+
+@media all and (max-width:640px) {
+    .promo-panel .panel {
+        padding:30px 0;
+    }
+    .promo-panel .panel .flex-row .col-btn {
+        min-width: 100%;
+        max-width: 100%;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .promo-panel .panel .flex-row .col-txt {
+        min-width: 100%;
+        max-width: 100%;
+        text-align: center;
+        padding-right: 0;
+        font-size: 16px;
+    }
+        .promo-panel .panel .btn {
+            display: inline-block;
+            width: 170px;
+        }
+    .platform-item .screen, .platform-item .screen, .platform-item.reverse .screen {
+        width: 280px;
+        height: 161px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 16px;
+        padding-bottom: 20px;
+        right: auto;
+        left: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #popup-demo h2, .popup-form h2 {
+        font-size:24px;
+    }
+    .popup-form {
+        padding-left:30px;
+        padding-right:30px;
+    }
+    .form .flex-row > div {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .form .flex-row .btn {
+        margin-top:15px;
+    }
+    .form .row label, .form .row input:not([type=checkbox]):not([type=radio]):not([type=submit]):not([type=button]):not([type=reset]) {
+        font-size: 14px;
+    }
+    .ie10 .techno-base-item, .ie11 .techno-base-item {
+        height:auto;
+    }
+    .form .flex-row {
+        margin-left:0;
+        margin-right:0;
+        display:block;
+    }
+    .form .flex-row > div {
+        padding-left:0;
+        padding-right:0;
+    }
+}
+@media all and (max-width:480px) {
+    .wrapper {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .intro .btns {
+        padding-top:15px;
+    }
+    .intro h1 {
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .conception {
+        padding-top: 30px;
+        padding-bottom:15px;
+    }
+        .conception h2, .spheres h2 {
+            font-size: 24px;
+        }
+    .concept .cpanel {
+        padding: 15px;
+        -webkit-transform: translateY(0) translateZ(0);
+        transform: translateY(0) translateZ(0);
+    }
+        .concept .cpanel:hover {
+            -webkit-transform: translateY(0) translateZ(0);
+            transform: translateY(0) translateZ(0);
+        }
+        .conception .concept > div {
+            padding-top: 0;
+        }
+    .spheres .wrapper > .flex-row > div {
+        min-width: 100%;
+        max-width: 100%;
+        padding-bottom:0;
+    }
+    .sphere-item:hover {
+        -webkit-transform: translateY(0) translateZ(0);
+        transform: translateY(0) translateZ(0);
+    }
+    .content-sphere {
+        padding-bottom: 50px;
+        padding-top:30px;
+    }
+        .content-sphere .btn-close {
+            top:-15px;
+        }
+    .spheres .content-sphere img {
+        max-width: 300px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .spheres .content-sphere h3 {
+        font-size: 24px;
+        text-align:center;
+    }
+    .spheres .content-sphere ul li {
+        font-size:12px;
+        padding-left:20px;
+        margin-bottom:10px;
+    }
+        .spheres .content-sphere ul li::before, .solutions .cpanel .txt ul li::before, .platform-item ul li::before {
+            top: 4px;
+        }
+    .spheres .content-sphere p {
+        font-size:12px;
+    }
+    .spheres .content-sphere .btns {
+        padding-top: 5px;
+    }
+        .spheres .content-sphere .btns .btn, .spheres .content-sphere .btns .btn:last-child {
+            display: block;
+            width: 250px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 15px;
+        }
+    .solutions h2 {
+        font-size: 24px;
+        padding-bottom: 45px;
+    }
+    .solutions .cpanel:hover {
+        -webkit-transform: translateY(0) translateZ(0);
+        transform: translateY(0) translateZ(0);
+    }
+    .solutions .cpanel h3 {
+        font-size: 18px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .solutions .cpanel .txt {
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: 12px;
+    }
+        .solutions .cpanel .txt ul li {
+            margin-bottom:10px;
+        }
+        .solutions .cpanel .txt p em {
+            padding-top:5px;
+        }
+    .solutions .cpanel .btns {
+        padding-left: 15px;
+        padding-right: 15px;
+        bottom: 30px;
+    }
+    .solutions .cpanel {
+        padding-top:50px;
+        padding-bottom:80px;
+    }
+    .it {
+        padding-top:30px;
+        padding-bottom:15px;
+    }
+        .it h2 {
+            font-size: 24px;
+            padding-bottom:30px;
+        }
+    .it-1 {
+        padding-top: 30px;
+        padding-bottom: 0;
+    }
+    .it h3 {
+        font-size:14px;
+        text-align:center;
+    }
+    .it-1 .wrapper > .flex-row > div .flex-row > div {
+        text-align:center;
+    }
+    .it-1 .wrapper > .flex-row > div {
+        padding-bottom:15px;
+    }
+    .it p {
+        font-size: 12px;
+    }
+    .it-2 {
+        padding-top: 40px;
+    }
+        .it-2 .wrapper > .flex-row > div {
+            padding-bottom:15px;
+        }
+    .platform {
+        padding-bottom: 30px;
+        padding-top:30px;
+    }
+        .platform h2 {
+            font-size: 24px;
+            padding-bottom:30px;
+        }
+    .platform-item.item-1 {
+        padding-top: 0;
+    }
+    .platform-item {
+        text-align:center;
+    }
+    .platform-item h3 {
+        font-size: 18px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .platform-item p {
+        font-size: 12px;
+    }
+        .platform-item h4 {
+            font-size: 14px;
+            margin-top: 10px;
+            padding-bottom: 5px;
+            text-align: center;
+            display:block;
+        }
+        .platform-item ul {
+            max-width:280px;
+            margin-left:auto;
+            margin-right:auto;
+            text-align:left;
+        }
+        .platform-item ul li {
+            font-size: 12px;
+        }
+        .platform-item.item-2 {
+            margin-bottom: 0;
+        }
+    .techno {
+        padding-top: 30px;
+    }
+        .techno h2 {
+            font-size: 24px;
+        }
+    .round {
+        height: 280px;
+        width: 280px;
+    }
+        .round .s1, .round .s2, .round .s3, .round .s4 {
+            width: 140px;
+            height: 140px;
+        }
+        .round .logo {
+            height: 100px;
+            width: 100px;
+            background-size: auto 22px;
+            margin-left: -50px;
+            margin-top: -50px;
+        }
+        .round .icon {
+            width: 40px;
+            height: 40px;
+            margin-top: -20px;
+            margin-left: -20px;
+        }
+    .techno h3 {
+        text-align:center;
+        padding-bottom:10px;
+    }
+    .techno .col-left h3::after, .techno .col-right h3::after {
+        margin-left: -50px;
+        left: 50%;
+    }
+    .techno .flex-row > .col-left, .techno .flex-row > .col-right {
+        text-align:center;
+        font-size: 12px;
+    }
+    .techno-palo .flex-row .s3 {
+        padding-bottom: 0;
+    }
+    .techno-base > div {
+        padding-top:0;
+    }
+    .techno-base-item {
+        padding:15px;
+        flex-wrap:wrap;
+        text-align:center;
+    }
+        .techno-base-item > .col-img {
+            padding-bottom:15px;
+        }
+        .techno-base-item > .col-img, .techno-base-item > .col-txt {
+            min-width: 100%;
+            max-width: 100%;
+            padding-right: 0;
+        }
+        .techno-base-item > .col-txt {
+            font-size: 12px;
+        }
+    .techno-base {
+        padding-bottom:40px;
+    }
+    .partner-slider .flex-row {
+        justify-content:center;
+    }
+    .partners .wrapper {
+        padding-top:45px;
+    }
+    .partners {
+        padding-bottom:10px;
+    }
+        .partners h2 {
+            font-size:20px;
+        }
+    .request-section {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+        .request-section h2 {
+            font-size:24px;
+        }
+    .form .flex-row .btn {
+        max-width:250px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    footer {
+        padding-top: 20px;
+    }
+    .footer-top {
+        padding-bottom: 20px;
+    }
+        .footer-top .slogan {
+            font-size:12px;
+        }
+        .footer-top > .col-addr {
+            font-size: 12px;
+            padding-top: 15px;
+        }
+        .footer-top > .col-btn {
+            padding-top:5px;
+        }
+    .form .row input:not([type=checkbox]):not([type=radio]):not([type=submit]):not([type=button]):not([type=reset]) {
+        padding-left:10px;
+        padding-right:10px;
+    }
+    .form span.invalid_message {
+        padding-left:10px;
+    }
+    .overlay .ftd {
+        padding:15px;
+    }
+    .wrapper.wpp {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .promo-panel .panel {
+        padding: 0 15px 30px 15px;
+    }
+    .intro h1 {
+        font-size:24px;
+        padding-bottom:5px;
+    }
+    .intro p {
+        font-size:14px;
+    }
+    .promo-panel .panel .flex-row .col-txt {
+        display: none;
+    }
+    .promo-panel .panel .flex-row .col-btn {
+        padding-top:0;
+        font-size:0;
+        line-height:0;
+    }
+    .promo-panel .panel .flex-row {
+        min-height:46px;
+    }
+    .promo-panel .panel {
+        background:none;
+    }
+}
+@media all and (max-width:375px) {
+    #popup-demo h2, .popup-form h2 {
+        font-size:20px;
+    }
+    .popup-form .form .flex-row .btn {
+        max-width: 100%;
+
+    }
+
+    .concept .cpanel .icon {
+        height:75px;
+    }
+    .concept .cpanel h3 {
+        font-size:20px;
+    }
+    .concept .cpanel p {
+        font-size:12px;
+        font-weight:400;
+    }
+    .solutions .cpanel .icon {
+        height: 50px;
+        width: 90px;
+        margin-left: -45px;
+        padding: 10px 0;
+        top:-25px;
+    }
+        .solutions .cpanel .icon img {
+            height:30px;
+        }
+    .solutions .cpanel {
+        padding-top:35px;
+    }
+    .solutions .flex-row > div {
+        padding-bottom:45px;
+    }
+    .platform-item p {
+        font-weight:400;
+    }
+    .form .flex-row .btn {
+        max-width:100%;
+    }
+    .footer-top > .col-btn .btn-whte, .cpanel .btn, .promo-panel .panel .btn, .spheres .content-sphere .btns .btn, .spheres .content-sphere .btns :last-child.btn {
+        width: 100%;
+        display: block;
+    }
+}

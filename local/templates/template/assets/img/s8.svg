@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 125.9 123.5" width="125.9" height="123.5" style="enable-background:new 0 0 125.9 123.5;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:none; stroke:#a7abb4; stroke-width:1.5; stroke-linecap:round; stroke-linejoin:round; stroke-miterlimit:10;}
+	</style>
+	<polyline class="st0" points="3.6,5.2 3.6,0.8 39.4,0.8 39.4,5.2"/>
+	<rect x="66.5" y="40.4" class="st0" width="12.9" height="9"/>
+	<line class="st0" x1="80.6" y1="44.4" x2="65.3" y2="44.4"/>
+	<line class="st0" x1="72.9" y1="49.4" x2="72.9" y2="44.4"/>
+	<rect x="85.9" y="40.4" class="st0" width="12.9" height="9"/>
+	<line class="st0" x1="100" y1="44.4" x2="84.7" y2="44.4"/>
+	<line class="st0" x1="92.4" y1="49.4" x2="92.4" y2="44.4"/>
+	<rect x="105.4" y="40.4" class="st0" width="12.9" height="9"/>
+	<line class="st0" x1="119.5" y1="44.4" x2="104.2" y2="44.4"/>
+	<line class="st0" x1="111.8" y1="49.4" x2="111.8" y2="44.4"/>
+	<rect x="48.4" y="64.9" class="st0" width="61.7" height="5.7"/>
+	<rect x="48.4" y="74.6" class="st0" width="61.7" height="5.7"/>
+	<rect x="48.4" y="84.2" class="st0" width="61.7" height="5.7"/>
+	<polygon class="st0" points="28.1,17.9 24,17.9 24,13.8 18.9,13.8 18.9,17.9 14.8,17.9 14.8,23 18.9,23 18.9,27.1 24,27.1 24,23 28.1,23"/>
+	<polyline class="st0" points="42.2,92.5 42.2,5.2 0.8,5.2 0.8,122.8 6.6,122.8"/>
+	<polyline class="st0" points="42.2,57.3 116.3,57.3 116.3,97.5"/>
+	<polyline class="st0" points="59.6,57.3 59.6,32.4 125.1,32.4 125.1,97.5"/>
+	<rect x="6.6" y="97.5" class="st0" width="118.5" height="25.2"/>
+	<line class="st0" x1="96.9" y1="104.9" x2="6.6" y2="104.9"/>
+	<line class="st0" x1="125.1" y1="104.9" x2="102.4" y2="104.9"/>
+	<line class="st0" x1="23.3" y1="104.9" x2="23.3" y2="121.9"/>
+	<line class="st0" x1="108.5" y1="104.9" x2="108.5" y2="121.9"/>
+	<line class="st0" x1="65.9" y1="104.9" x2="65.9" y2="121.9"/>
+	<line class="st0" x1="42.2" y1="35.3" x2="0.8" y2="35.3"/>
+	<line class="st0" x1="42.2" y1="47" x2="0.8" y2="47"/>
+	<line class="st0" x1="42.2" y1="58.8" x2="0.8" y2="58.8"/>
+	<line class="st0" x1="42.2" y1="70.6" x2="0.8" y2="70.6"/>
+	<line class="st0" x1="42.2" y1="82.3" x2="0.8" y2="82.3"/>
+	<line class="st0" x1="21.5" y1="35.3" x2="21.5" y2="82.3"/>
+</svg>

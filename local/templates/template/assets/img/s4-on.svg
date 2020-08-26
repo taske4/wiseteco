@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 115.6 110.2" width="115.6" height="110.2" style="enable-background:new 0 0 115.6 110.2;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:none;stroke:#fff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	</style>
+	<line class="st0" x1="81.6" y1="109.5" x2="0.8" y2="109.5"/>
+	<path class="st0" d="M10.5,109.4c-1.9,0-3.4-1.5-3.4-3.4V4.1c0-1.9,1.5-3.4,3.4-3.4h62c1.9,0,3.4,1.5,3.4,3.4V106c0,1.9-1.5,3.4-3.4,3.4"/>
+	<path class="st0" d="M62.3,41.8H20c-1.9,0-3.4-1.5-3.4-3.4V14.4c0-1.9,1.5-3.4,3.4-3.4h42.3c1.9,0,3.4,1.5,3.4,3.4v23.9C65.7,40.2,64.2,41.8,62.3,41.8z"/>
+	<line class="st0" x1="16.6" y1="52.8" x2="65.7" y2="52.8"/>
+	<rect x="56.5" y="69.7" class="st0" width="9.2" height="20.3"/>
+	<line class="st0" x1="56.5" y1="99.4" x2="65.7" y2="99.4"/>
+	<line class="st0" x1="28.7" y1="31.1" x2="36.6" y2="23.3"/>
+	<line class="st0" x1="26.4" y1="26.6" x2="34.3" y2="18.7"/>
+	<path class="st0" d="M16.6,79.9v9.7c0,5.4,4.4,9.8,9.8,9.8l0,0"/>
+	<rect x="104.2" y="56.2" class="st0" width="8.2" height="14.7"/>
+	<path class="st0" d="M108.4,70.8v30.6c0,4.4-3.5,7.9-7.9,7.9l0,0c-4.4,0-7.9-3.5-7.9-7.9V34.3c0-4.4-3.5-7.9-7.9-7.9h-8.8"/>
+	<path class="st0" d="M108.3,56.2c0,0-1-10.8,6.5-14.4"/>
+</svg>

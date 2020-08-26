@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Сферы применения", 
+		"#spheres", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Решения", 
+		"#solutions", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Зачем внедрять IoT", 
+		"#why", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Платформа", 
+		"#platform", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"#contacts", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

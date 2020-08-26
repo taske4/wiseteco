@@ -1,0 +1,1 @@
+<img alt="Wiseteco" src="<?= SITE_TEMPLATE_PATH ?>/assets/img/logo1.png"/>
